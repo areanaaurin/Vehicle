@@ -9,6 +9,8 @@ events:
     message: |
       The system is: Windows - 10.0.19045 - AMD64
   -
+  -
+  -
     kind: "message-v1"
     backtrace:
       - "D:/cmake-4.0.1-windows-x86_64/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
