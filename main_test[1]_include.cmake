@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Asus/Documents/CSE 3205,3206(SE)/CSE 3206/Vehicles/build/main_test[1]_tests.cmake")
+  include("C:/Users/Asus/Documents/CSE 3205,3206(SE)/CSE 3206/Vehicles/build/main_test[1]_tests.cmake")
+else()
+  add_test(main_test_NOT_BUILT main_test_NOT_BUILT)
+endif()
